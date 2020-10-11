@@ -12,8 +12,8 @@ mvpbang/nginx
 ```
 git tag nginx1.0
 
-git push origin nginx1.0
-git push origin --tags
+git push -u origin nginx1.0
+git push -u origin --tags
 
 git tag //list tag
 ```
